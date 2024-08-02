@@ -13,3 +13,4 @@ Stages: - Stage 20
         - Stage 29
 
         
+[stages.pdf](https://github.com/user-attachments/files/16471580/stages.pdf)
