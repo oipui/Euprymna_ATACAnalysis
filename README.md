@@ -4,13 +4,11 @@ This repository contains the a ATAC-seq analysis as described in [Schmidbaur et 
 It is largely based on the [Harvard Informatics pipeline](https://github.com/harvardinformatics/ATAC-seq) and [Thomas Caroll's pipeline](https://rockefelleruniversity.github.io/RU_ATAC_Workshop.html). 
 
 
+# The dataset 
 Data were collected by Hannah Schmidbaur.
-
 Species: _Euprymna scolopes_
 
-Stages: - Stage 20
-        - Stage 25
-        - Stage 29
+**Stages:** 
 
-        
-[stages.pdf](https://github.com/user-attachments/files/16471760/stages.pdf)
+<img src="https://github.com/user-attachments/assets/a5ad4b84-fcc2-47e1-9e5b-0d4a54bf5b27" width="50%">
+
