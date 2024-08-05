@@ -11,6 +11,6 @@ Species: _Euprymna scolopes_
 **Stages:** 
 
 <img src="https://github.com/user-attachments/assets/a5ad4b84-fcc2-47e1-9e5b-0d4a54bf5b27" width="50%">
-<img scr="https://github.com/user-attachments/files/16496288/ATAC.pdf" width = "30%">
+<img scr="https://github.com/user-attachments/assets/78f356fa-f3b0-4e56-a712-2b981166c462" width = "30%">
 
 
